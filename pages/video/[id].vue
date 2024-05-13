@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { BarrageInstance } from "vant";
+import ikunVideo from "@/assets/videos/ikun.mp4";
 
 // 弹幕相关
 const barrageList = ref([
@@ -51,7 +52,7 @@ useSeoMeta({
         @pause="onPause"
         :poster="detail?.pic"
         :volume="0.5"
-        src="https://v5-hl-tx-ov.douyinvod.com/c4debcdfdb696d3d5fb8f7057aae6ad2/6641ccc7/video/tos/cn/tos-cn-ve-15c001-alinc2/oAYxRUgyQDzsQRPAoDlAVneBqI9rC0nbgAHe99/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=426&bt=426&cs=2&ds=3&ft=CZdgCYlIDyjNNRVQ9waLc1Mhd.svk4XR3-ApQX&mime_type=video_mp4&qs=15&rc=aDM8NWc0OjY2NzhnPGk8ZEBpanNzd2Q6ZnY7cDMzNGkzM0BfXmMzXy8tNmExMDUyXzJeYSNwaGIucjRfNWlgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=101n_100B_100x_100z_100o&dy_q=1715584545&feature_id=c6de0308cacfd993ef282c8e1c646267&l=2024051315154453EF2FA3FF6EB6013960"
+        :src="ikunVideo"
       ></video>
     </van-barrage>
   </van-sticky>

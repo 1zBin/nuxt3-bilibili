@@ -3,12 +3,12 @@ import type { BarrageInstance } from "vant";
 
 // 弹幕相关
 const barrageList = ref([
-  { id: 100, text: "轻量" },
-  { id: 101, text: "可定制的" },
-  { id: 102, text: "移动端" },
-  { id: 103, text: "Vue" },
-  { id: 104, text: "组件库" },
-  { id: 105, text: "VantUI" },
+  { id: 100, text: "iKun" },
+  { id: 101, text: "爱坤" },
+  { id: 102, text: "黑子在哪" },
+  { id: 103, text: "冷知识:一坤年等于两年半" },
+  { id: 104, text: "鸡你太美" },
+  { id: 105, text: "纪录片" },
   { id: 106, text: "666" },
 ]);
 

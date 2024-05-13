@@ -50,7 +50,7 @@ useSeoMeta({
         @play="onPlay"
         @pause="onPause"
         :poster="detail?.pic"
-        src="https://v95-web-sz.douyinvod.com/b22bc881df79722f6dc660461308cd33/6641a316/video/tos/cn/tos-cn-ve-15/ogBLAQAls8GLjATQIlDnAQbZErUUgXfeADVnc9/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=637&bt=637&cs=2&ds=4&ft=GZnU0RqeffPdXP~ka1jNvAq-antLjrKAtup.RkatoWBZvjVhWL6&mime_type=video_mp4&qs=15&rc=OmlnZzRnNzM3Nzk7ZzwzZUBpajN3aTM6ZnNtcDMzNGkzM0BiMmFfNl9jNmIxMmMtYjM2YSNgbG8xcjRvX15gLS1kLTBzcw%3D%3D&btag=80000e00028000&cquery=101n_100B_100H_100K_100o&dy_q=1715573872&feature_id=e585bce62f14c124a0ac1450c3a95af2&l=202405131217526CB4FAAD973773056406"
+        src="https://v5-hl-tx-ov.douyinvod.com/c4debcdfdb696d3d5fb8f7057aae6ad2/6641ccc7/video/tos/cn/tos-cn-ve-15c001-alinc2/oAYxRUgyQDzsQRPAoDlAVneBqI9rC0nbgAHe99/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=426&bt=426&cs=2&ds=3&ft=CZdgCYlIDyjNNRVQ9waLc1Mhd.svk4XR3-ApQX&mime_type=video_mp4&qs=15&rc=aDM8NWc0OjY2NzhnPGk8ZEBpanNzd2Q6ZnY7cDMzNGkzM0BfXmMzXy8tNmExMDUyXzJeYSNwaGIucjRfNWlgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=101n_100B_100x_100z_100o&dy_q=1715584545&feature_id=c6de0308cacfd993ef282c8e1c646267&l=2024051315154453EF2FA3FF6EB6013960"
       ></video>
     </van-barrage>
   </van-sticky>
